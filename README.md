@@ -2,6 +2,10 @@
 
 Bienvenue dans mon projet! Voici quelques rappels rapides pour travailler avec Git.
 
+### Avant Utilisation /!\
+Ce projet est compilé avec CMake c'est à dire qu'avant tout vous devrez supprimer tout les fichier de build/.
+Sauf SDL2.dll et sdl2-config.
+Et refaire une configuration (le logiciel CMake gère tout seul sur VisualStudioCode).
 
 ## Cloner le Repository
 
